@@ -1,0 +1,47 @@
+.employee-card {
+    border: 1px solid #ccc;
+    background-color: #f8f8f8;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .employee-list-container {
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+ 
+.employee-form-card {
+    border: 1px solid #ccc;
+    background-color: #f8f8f8;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px; /* Curved edges for the card */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .employee-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .employee-form input {
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .add-button {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px; /* Curved edges for the button */
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+  .add-button:hover {
+    background-color: #222; /* Darker color on hover */
+  }
+  

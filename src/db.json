@@ -1,0 +1,61 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Athena",
+      "surname": "Doe",
+      "job": "Software Engineer",
+      "email": "anthena@example.com",
+      "phone": "+27119563214"
+    },
+    {
+      "id": 2,
+      "name": "Jane",
+      "surname": "Smith",
+      "job": "Software Aministrator",
+      "email": "jane@example.com",
+      "phone": "+27119568520"
+    },
+    {
+      "id": 3,
+      "name": "Jimmy",
+      "surname": "Fox",
+      "job": "Test Analyst",
+      "email": "jimmy@example.com",
+      "phone": "+27119789600"
+    },
+    {
+      "id": 4,
+      "name": "Kyle",
+      "surname": "Jones",
+      "job": "Project Manager",
+      "email": "kyle@example.com",
+      "phone": "+27119159401"
+    },
+    {
+      "id": 5,
+      "name": "Lerato",
+      "surname": "Rakitla",
+      "job": "UI/UX Designer",
+      "email": "lerato@example.com",
+      "phone": "+2711956374103"
+    },
+    {
+      "id": 6,
+      "name": "Nate",
+      "surname": "Mkhokha",
+      "job": "Network Analyst",
+      "email": "nate@example.com",
+      "phone": "+27119789650"
+    },
+    {
+      "id": 7,
+      "name": "Raj",
+      "surname": "Naidoo",
+      "job": "Cyber Security Analyst",
+      "email": "raj@example.com",
+      "phone": "+27119745320"
+    }
+  ]
+  
+}
